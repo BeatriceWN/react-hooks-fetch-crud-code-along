@@ -31,10 +31,28 @@
       "isInCart": false
     },
     {
-      "id": 6,
-      "name": "Cookies",
+      "name": "Cucumber",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 6
+    },
+    {
+      "name": "Chocolate",
       "category": "Dessert",
-      "isInCart": false
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Milkshake",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "Brrownies",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 9
     }
   ]
 }
